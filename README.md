@@ -1,4 +1,4 @@
-# create_analytical_dataset
+# Create_analytical_dataset
 ## **Predictive Analytics for Business nanodegree**
 ## **Project Description**
 Pawdacity is a leading pet store chain in Wyoming with 13 stores throughout the state. This year, Pawdacity would like to expand and open a 14th store. The manager has asked  to perform an analysis to recommend the city for Pawdacity’s newest store, based on predicted yearly sales.
