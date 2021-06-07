@@ -13,4 +13,4 @@ The manager has given the following information to work with:
 - A partially parsed data file that can be used for population numbers. 
 - Demographic data (Households with individuals under 18, Land Area, Population Density, and Total Families) for each city and county in the state of Wyoming. For people who are unfamiliar with the US city system, a state contains counties and counties contains one or more cities.
 **Note**
-All data and resources for this project have been included in the zip file. feel free to clone and use them.
+All data and resources for this project have been included in the zip file when you clone this repository feel free to clone and use them.
